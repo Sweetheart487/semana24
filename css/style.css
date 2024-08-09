@@ -1,0 +1,13 @@
+body{
+    background-image: url(../img/imagen.hacker.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.caja1{
+    border: solid 4px cyan;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    background-color: white;
+}
